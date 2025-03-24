@@ -12,4 +12,4 @@ update customers
 set email='hello@napoleon.me'
 where id=3;
 
-SET SQL_SAFE_UPDATES = 0;
+SET SQL_SAFE_UPDATES = 1;
